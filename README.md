@@ -102,14 +102,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=PragyaKumari2203&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=PragyaKumari2203&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PragyaKumari2203&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🤝 Let’s Connect
 
 I’m always open to learning, collaborating, and discussing opportunities in  
